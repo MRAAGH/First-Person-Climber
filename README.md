@@ -1,2 +1,11 @@
-# First-Person-Climber
-cool path generator in Unity
+# https://gitlab.com/MRAAGH/first-person-climber
+
+![screenshot](https://img.ourl.ca/firstpersonclimber.png)
+
+# Downloads
+
+- Linux 64-bit (13.7 MB):
+http://mazie.rocks/files/FirstPersonClimber_linux.zip
+
+- Windows 64-bit (43.3 MB):
+http://mazie.rocks/files/FirstPersonClimber_windows.zip
