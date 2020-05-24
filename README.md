@@ -5,7 +5,7 @@
 # Downloads
 
 - Linux 64-bit (13.7 MB):
-http://mazie.rocks/files/FirstPersonClimber_linux.zip
+https://mazie.rocks/files/FirstPersonClimber_linux.zip
 
 - Windows 64-bit (43.3 MB):
-http://mazie.rocks/files/FirstPersonClimber_windows.zip
+https://mazie.rocks/files/FirstPersonClimber_windows.zip
